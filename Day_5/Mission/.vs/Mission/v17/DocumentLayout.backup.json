@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Mission.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Mission.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Mission.Api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Mission.Api\\Mission.Api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Mission.Api.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Mission.Api\\Mission.Api.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Mission.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Mission.Api\\Mission.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Mission.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Mission.Api\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Services\\Mission.Services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission\\Mission.Services\\Mission.Services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Mission\\Mission.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Mission\\Mission.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T11:57:02.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mission.Api.http",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Mission.Api.http",
+              "RelativeDocumentMoniker": "Mission\\Mission.Api\\Mission.Api.http",
+              "ToolTip": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Mission.Api.http",
+              "RelativeToolTip": "Mission\\Mission.Api\\Mission.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-10T11:54:40.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mission.Api.csproj.user",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Mission.Api.csproj.user",
+              "RelativeDocumentMoniker": "Mission\\Mission.Api\\Mission.Api.csproj.user",
+              "ToolTip": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Mission.Api.csproj.user",
+              "RelativeToolTip": "Mission\\Mission.Api\\Mission.Api.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-07-10T11:54:34.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mission.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Mission.Api.csproj",
+              "RelativeDocumentMoniker": "Mission\\Mission.Api\\Mission.Api.csproj",
+              "ToolTip": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Mission.Api.csproj",
+              "RelativeToolTip": "Mission\\Mission.Api\\Mission.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T11:54:29.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission\\Mission.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\appsettings.json",
+              "RelativeToolTip": "Mission\\Mission.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T11:54:26.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Mission\\Mission.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\Program.cs",
+              "RelativeToolTip": "Mission\\Mission.Api\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:54:11.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Mission\\Mission.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Mission\\Mission.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T11:44:35.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mission.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Services\\Mission.Services.csproj",
+              "RelativeDocumentMoniker": "Mission\\Mission.Services\\Mission.Services.csproj",
+              "ToolTip": "C:\\Users\\HP VICTUS\\source\\repos\\Mission\\Mission\\Mission.Services\\Mission.Services.csproj",
+              "RelativeToolTip": "Mission\\Mission.Services\\Mission.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T11:44:25.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
